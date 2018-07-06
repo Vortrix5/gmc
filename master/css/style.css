@@ -1,0 +1,128 @@
+.my{
+	color: red;
+}
+
+#go{
+	background-color: skyblue;
+}
+#helpful{
+	color: green;
+    padding-top : 5px;
+	padding-bottom : 10px;
+    padding-right : 15px;
+    padding-left : 20px;
+}
+#helpful:hover{
+
+	color: red;
+}
+#not{
+	color: red;
+}
+#not:hover{
+	color: green;
+}
+h1:hover{
+	color: red;
+}
+#follow{
+	background-color: green;
+	border: 1px solid purple;
+}
+#what{
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-top: 30px;
+
+}
+#check{
+	display: inline;
+	background-color: tomato;
+}
+#test{
+	display: block;
+	width: 33%;
+	background-color: green;
+}
+#div{
+	padding-left: 30px;
+	
+}
+
+/*.ecr{
+	width: 30%;
+}*/
+
+.item img {
+	width: 200px;
+	height: 200px !important;
+	margin-left: 150px;
+}
+.item {
+	width: 500Px;
+	height: 200px;
+	text-align: center;
+}
+#login:hover{
+	color: red;
+}
+#login{
+  margin-left: 1000px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  width: 100px;
+  float: right;
+}
+#div1{
+	margin-left: 500px;
+	margin-top: 100px;
+	display: inline-block;
+
+}
+.but{
+	width: 250px;
+	height: 30px;
+}
+.text{
+	color: skyblue;
+	font-weight: bold;
+	font-family: 	
+	font-size: 20px;
+}
+#wrong{
+	color: red;
+	font-weight: bold;
+	margin-left: -5%;
+}
+
+#wizard{
+	margin-left: 50px;
+	padding-bottom: : 70px;
+	width: 30%;
+}
+#home{
+	background-image: url("../res/background.png");
+}
+#email{
+width: 40%;
+
+}
+#password{
+width: 40%;
+
+}
+#text{
+	padding-left: 450px;
+    margin-top: 100px;
+}
+#login{
+	margin-left: 175px;
+}
+
+#wz{
+	
+	padding-left: 20px;
+	width: 35%;
+}
+
